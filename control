@@ -1,9 +1,9 @@
 Package: jp.r-plus.mesalation
 Name: Mesalation
-Depends: mobilesubstrate, cy+cpu.arm64, firmware (>= 7.0.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
 Version: 0.1
 Architecture: iphoneos-arm
 Description: Default passcode grace with TouchID
-Maintainer: r_plus
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: r_plus
 Section: Tweaks
